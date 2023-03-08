@@ -284,7 +284,7 @@ export default function Home({ fee }) {
 					</Text>
 					<Text
 						h1
-						size={20}
+						size={30}
 						css={{
 							textGradient: "45deg, $yellow600 -20%, $red600 100%",
 						}}
